@@ -15,13 +15,6 @@
         </RouterLink>
       </div>
     </div>
-    <div
-      class="user"
-      @click="toAbout">
-      <img
-        :src="image"
-        :alt="name" />
-    </div>
   </header>
 </template>
 
